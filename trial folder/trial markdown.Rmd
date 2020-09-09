@@ -1,0 +1,8 @@
+---
+title: "trial git markdown"
+author: "Zuzana"
+date: "9 septembra 2020"
+output: html_document
+---
+
+:-)
